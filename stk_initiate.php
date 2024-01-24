@@ -12,7 +12,7 @@ if(isset($_POST['submit'])){
   # provide the following details, this part is found on your test credentials on the developer account
   $BusinessShortCode = '174379';
   $Passkey = 'bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919';  
-  
+   
   /*
     This are your info, for
     $PartyA should be the ACTUAL clients phone number or your phone number, format 2547********

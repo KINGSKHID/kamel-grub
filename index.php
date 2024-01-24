@@ -22,7 +22,7 @@
       body {
         background-color: #eaedf4;
         font-family: "Rubik", sans-serif;
-      }
+      } 
 
       .card {
         width: 310px;

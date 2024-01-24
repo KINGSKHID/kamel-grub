@@ -11,7 +11,7 @@
  
      // log the response
      $logFile = "M_PESAConfirmationResponse.txt";
- 
+  
      // write to file
      $log = fopen($logFile, "a");
  
